@@ -7,5 +7,5 @@ h5py
 cython
 tqdm
 numpy
-torch==1.0.0
+torch==2.2.0
 -e git+https://github.com/facebookresearch/poincare-embeddings#egg=poincare
